@@ -1,0 +1,28 @@
+# Godot generated data
+.godot/
+.import/
+export.cfg
+export_credentials.cfg
+
+# Build outputs
+build/
+builds/
+dist/
+exports/
+
+# Local tools and secrets
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# Keep Godot .uid files and asset .import metadata under version control.
